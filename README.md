@@ -80,10 +80,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
-
-
-
+[____________________________________________________]
 
 
 
@@ -105,18 +102,6 @@
    
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-DEPLOYMENT :
-
-- [**NJABULO TECH**](https://github.com/NjabuloJ/Njabulo-jb)
-- [**MARISEL TECH**](https://github.com/betingrich3/Mercedes)
-- [**CHANNEL**](https://shorturl.at/q8ZuS)
-- [**Developers YT**](https://youtube.com/watch?v=yuFuKu9SUIM)
-
-
-</div>
-
 
 
 
